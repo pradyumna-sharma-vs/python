@@ -1,0 +1,14 @@
+8 km = 5 miles
+2.2 pounds = 1 kilogram
+4.5 litres = 1 gallon
+1 km = 1000 mtr
+1 mtr = 100 cm
+1 cm = 10 mm
+1 nm = 0.000000001 mtr
+1 pm = 0.000000000001 mtr
+1 Angstrom = 0.0000000001 mtr
+1 inch = 2.54 cm
+1 mile = 1.6 km
+1 feet = 12 inch
+1 feet = 30.5 cm
+1 yard = 0.9144 mtr
